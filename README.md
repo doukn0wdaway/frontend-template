@@ -1,14 +1,15 @@
 # It is template for frontend app
 
-## used technologies:
+## used:
 
 - react
 - tailwindcss
 - webpack
 - scss
+- router with basic routing
+- svgr
+- path aliases
 
 ## need to add:
 
-- [ ] svgr
-- [ ] router with basic routing
-- [ ] some kind of state manager, I guess?
+- some kind of state manager, I guess (effector obv)?
